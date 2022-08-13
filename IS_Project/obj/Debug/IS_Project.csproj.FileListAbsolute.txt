@@ -1,0 +1,27 @@
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\obj\Debug\IS_Project.csproj.AssemblyReference.cache
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\obj\Debug\IS_Project.Form1.resources
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\obj\Debug\IS_Project.csproj.GenerateResource.cache
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\bin\Debug\IS_Project.exe.config
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\bin\Debug\IS_Project.exe
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\bin\Debug\IS_Project.pdb
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\obj\Debug\IS_Project.Properties.Resources.resources
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\obj\Debug\IS_Project.csproj.CoreCompileInputs.cache
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\obj\Debug\IS_Project.exe
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\obj\Debug\IS_Project.pdb
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\obj\Debug\IS_Project.Form2.resources
+C:\Users\Farzeel Ahmad\Desktop\IS_Project\IS_Project\obj\Debug\IS_Project.Form3.resources
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\bin\Debug\IS_Project.exe.config
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\bin\Debug\IS_Project.exe
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\bin\Debug\IS_Project.pdb
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.csproj.AssemblyReference.cache
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.Form1.resources
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.Form2.resources
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.Form3.resources
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.Properties.Resources.resources
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.csproj.GenerateResource.cache
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.csproj.CoreCompileInputs.cache
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.exe
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.pdb
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.Form4.resources
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.Form5.resources
+C:\Users\Amna\Downloads\IS\IS_Project\IS_Project\obj\Debug\IS_Project.Form6.resources

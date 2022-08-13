@@ -1,0 +1,3 @@
+
+amna,Dir2
+farzeel,Dir1
